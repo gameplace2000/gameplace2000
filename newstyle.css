@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    position:absolute;
+    text-shadow: 2px 2px 3px darkred;
+    font-size: 60px;
+    left: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
